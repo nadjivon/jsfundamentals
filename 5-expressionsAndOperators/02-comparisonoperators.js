@@ -1,7 +1,7 @@
 //* Comparison Operators
 
 //* Equal
-'3' == 3; (comparing the same thing//* ==)
+'3' == 3; /*(comparing the same thing//* ==)
 
 //* Strict Equal
 3 === 3;
@@ -28,4 +28,4 @@
 2 && 3
 
 // * or
-2 || 3;
+2 || 3*/
